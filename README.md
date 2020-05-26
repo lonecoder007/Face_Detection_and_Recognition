@@ -1,5 +1,9 @@
 # Face_Detection_and_Recognition
 A simple app which can detect,store and recognize(predit person) using openCV and knn 
+
+
+![](20200526_214414.gif)
+
 ## Working
 App contain 3 Feature:
 
